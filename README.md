@@ -71,4 +71,7 @@ stock_market_prediction/
 
 ---
 
-## 
+## 👨‍💻 Author
+ Bardia Javadi   
+  📧 bardia.javadi.2003@gmail.com    
+  🌐 GitHub: [@bardiw](https://github.com/bardiw)   
