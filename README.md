@@ -33,4 +33,24 @@ pip install numpy pandas matplotlib scikit-learn
 
 ---
 
+## 🚀 How to Run
+Clone the repo or copy the script.
+
+Run the Python script:
+
+```
+python stock_market_prediction.py
+```
+The script will:
+
+Generate a synthetic stock price dataset.
+
+Fit an SVR model to training data.
+
+Predict stock prices for the next 10 days.
+
+Show a matplotlib plot of all data.
+
+---
+
 ## 
