@@ -60,4 +60,15 @@ Testing MSE: ~1.2
 
 Future Prices: Predicted values for the next 10 days shown in console and plot.
 
-<p align="center"> <img src="https://via.placeholder.com/600x300.png?text=Sample+SVR+Plot" alt="Stock Prediction Plot Example" /> </p>
+---
+
+## 📂 Project Structure
+```
+stock_market_prediction/
+├── stock_prediction.py     # Main script
+├── README.md               # Project documentation
+```
+
+---
+
+## 
